@@ -1,0 +1,8 @@
+Name: Ayesha Khan
+Program: BS Information Technology
+Semester: 1st Semester
+
+Learning Goals:
+1. Learn programming and web development.
+2. Understand Git and GitHub.
+3. Build and publish personal projects.
